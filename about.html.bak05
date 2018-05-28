@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Char</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<style type="text/css">
+		li a{
+			padding: 20px;
+			border-radius: 3px;
+			margin-top: 20px;
+		}
+		a:hover{
+			background-color: #850000;
+		}
+		ul{
+			list-style-type: none;
+		}
+	</style>
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
+	<style type="text/css">a#vlb{display:none}</style>
+	<script type="text/javascript" src="engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+<body>
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+		<div class="navbar-header">
+			<a href="" class="navbar-brand">Char Adventures</a>
+		</div>
+			<ul class="navbar-nav">
+			    <li><a href="index.html">Home</a></li>
+				<li class="active"><a href="#">AboutUs</a></li>
+				<li><a href="booknow.html">BookNow</a></li>
+				<li><a href="contactus.html">ContactUs</a></li>
+				<li><a href="destinations.html">Destinations</a></li>
+				<li><a href="tourservices.html">TourServices</a></li>
+			</ul>
+		</div>
+	</nav>
+		    <h2 style="font-family: chiller; font-size: 23px;"><b>MORE ABOUT CHAR ADVENTURES</b></h2>
+		    <p style="font-family: Times New Roman; font-size: 23px;">Here at Char adventures we believe in availing your dream
+			vacation to you at the click of a button. We believe that life moves so fast so you should make the most out of
+			the good times and make them last.The good times such as;engagements,anniversaries,birthdays and graduations 
+			can be forever etched in your memories by going on new adventures. Although East and West ,home is best
+			variety never hurt anyone before.Travelling unlike some unpopular misconceptions that travelling means
+			going to foreign lands although it can also mean touring our beautiful country without putting a dent in your pocket.
+		</p>
